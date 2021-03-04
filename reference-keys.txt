@@ -6,3 +6,9 @@ mapa-del-departamento-de-santa-cruz
 scb
 mapa-sistema-de-ciudades-la-paz
 mapa-sistema-de-ciudades-santa-cruz
+zonas_vida
+mapa-zonas-de-vida-la-paz
+mapa-zonas-de-vida-santa-cruz
+integracion
+mapa-integrado-la-paz
+mapa-integrado-santa-cruz
